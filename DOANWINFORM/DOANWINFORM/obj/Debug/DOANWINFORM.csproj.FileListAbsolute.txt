@@ -1,0 +1,391 @@
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\DOANWINFORM.exe.config
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\DOANWINFORM.exe
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\DOANWINFORM.pdb
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\EnvDTE.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\EnvDTE80.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\stdole.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.csproj.AssemblyReference.cache
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.csproj.SuggestedBindingRedirects.cache
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.exe.config
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.Properties.Resources.resources
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.csproj.GenerateResource.cache
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.csproj.CoreCompileInputs.cache
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.csproj.CopyComplete
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.exe
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.pdb
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.DANGNHAPNV.resources
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.PL.QuanLyBanHang.resources
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.PL.QuanLyTaiKhoan.resources
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.PL.DanhSachSanPham.resources
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.PL.QuanLySanPhamcs.resources
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.PL.TimKiemSanPhamcs.resources
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.PL.HoaDonBanHang.resources
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.PL.TimKiemKhachHang.resources
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.PL.TimKiemHoaDon.resources
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.PL.DanhSachHoaDon.resources
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.PL.DanhSachKhachHang.resources
+C:\Users\VIP\source\repos\DOANWINFORM\DOANWINFORM\obj\Debug\DOANWINFORM.PL.QuanLyKhachHang.resources
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\DOANWINFORM.exe.config
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\DOANWINFORM.exe
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\DOANWINFORM.pdb
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\EnvDTE.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\EnvDTE80.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\stdole.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\VSLangProj.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\VSLangProj80.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\VSLangProj2.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\EnvDTE.xml
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\VSLangProj.xml
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\VSLangProj80.xml
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\VSLangProj2.xml
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.exe.config
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.DANGNHAPNV.resources
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.DanhSachHoaDon.resources
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.DanhSachKhachHang.resources
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.DanhSachSanPham.resources
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.HoaDonBanHang.resources
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.QuanLyBanHang.resources
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.QuanLyKhachHang.resources
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.QuanLySanPhamcs.resources
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.QuanLyTaiKhoan.resources
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.TimKiemHoaDon.resources
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.TimKiemKhachHang.resources
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.TimKiemSanPhamcs.resources
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.csproj.CopyComplete
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.exe
+C:\Users\Asus\OneDrive\Máy tính\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.pdb
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\DOANWINFORM.exe.config
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\DOANWINFORM.exe
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\DOANWINFORM.pdb
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\EnvDTE.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\EnvDTE80.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\stdole.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\VSLangProj.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\VSLangProj80.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\VSLangProj2.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\EnvDTE.xml
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\VSLangProj.xml
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\VSLangProj80.xml
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\VSLangProj2.xml
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.exe.config
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.DANGNHAPNV.resources
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.DanhSachHoaDon.resources
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.DanhSachKhachHang.resources
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.DanhSachSanPham.resources
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.HoaDonBanHang.resources
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.QuanLyBanHang.resources
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.QuanLyKhachHang.resources
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.QuanLySanPhamcs.resources
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.QuanLyTaiKhoan.resources
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.TimKiemHoaDon.resources
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.TimKiemKhachHang.resources
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.TimKiemSanPhamcs.resources
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.exe.licenses
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.csproj.CopyComplete
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.exe
+C:\Users\Asus\OneDrive\Máy tính\Học\WindowsForm\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.pdb
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\DANGNHAPNV.resx
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\DanhSachHoaDon.resx
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\DanhSachKhachHang.resx
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\DanhSachSanPham.resx
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\HoaDonBanHang.resx
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\QuanLyBanHang.resx
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\DANGNHAPNV.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\DANGNHAPNV.Designer.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\DanhSachHoaDon.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\DanhSachHoaDon.Designer.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\DanhSachKhachHang.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\DanhSachKhachHang.Designer.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\DanhSachSanPham.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\DanhSachSanPham.Designer.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\HoaDonBanHang.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\HoaDonBanHang.Designer.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\QuanLyBanHang.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\QuanLyBanHang.Designer.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\DOANWINFORM.exe.config
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\DOANWINFORM.exe
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\DOANWINFORM.pdb
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\EnvDTE.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\EnvDTE80.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\stdole.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.csproj.AssemblyReference.cache
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.csproj.SuggestedBindingRedirects.cache
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.exe.config
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.DANGNHAPNV.resources
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.DanhSachHoaDon.resources
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.DanhSachKhachHang.resources
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.DanhSachSanPham.resources
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.HoaDonBanHang.resources
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.QuanLyBanHang.resources
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.QuanLyKhachHang.resources
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.QuanLySanPhamcs.resources
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.QuanLyTaiKhoan.resources
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.TimKiemHoaDon.resources
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.TimKiemKhachHang.resources
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.TimKiemSanPhamcs.resources
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.Properties.Resources.resources
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.csproj.GenerateResource.cache
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.exe.licenses
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.csproj.CoreCompileInputs.cache
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.csproj.CopyComplete
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.exe
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.pdb
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\QuanLyKhachHang.resx
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\QuanLySanPhamcs.resx
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\QuanLyTaiKhoan.resx
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\TimKiemHoaDon.resx
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\TimKiemKhachHang.resx
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\TimKiemSanPhamcs.resx
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\QuanLyKhachHang.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\QuanLyKhachHang.Designer.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\QuanLySanPhamcs.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\QuanLySanPhamcs.Designer.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\QuanLyTaiKhoan.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\QuanLyTaiKhoan.Designer.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\TimKiemHoaDon.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\TimKiemHoaDon.Designer.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\TimKiemKhachHang.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\TimKiemKhachHang.Designer.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\TimKiemSanPhamcs.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\bin\Debug\PL\TimKiemSanPhamcs.Designer.cs
+C:\Users\VIP\source\repos\DOANWINMOI\DOANWINFORM[ZaloPC_Folder]\DOANWINFORM\obj\Debug\DOANWINFORM.PL.ThongKeDoanhThu.resources
